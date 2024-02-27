@@ -1,19 +1,4 @@
-namespace VTA
-{
-    class tuanAnhVTA
-    {
-        static void Main(string[] args)
-        {
-            string Name = "Nguyễn Minh Tân";
-            string Age = "2002";
-            string Gender = "Male";
-            string Address = "Bình Dương, Việt Nam";
-            string University = "Trường Đại Học Thủ Dầu Một - TDMU";
-            string Skills = "C, C++, C#, Python, Java, HTML, CSS, JavaScript, PHP, MYSQL";
-            string FamousQuotes = "Bạn phải biết điểm mạnh của bản thân và rèn luyện nó để xây dựng nên ước mơ của bạn";
-        }
-    }
-}
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/milktan0804) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meantan.30) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@milktan0804) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCeNoG01Ay52epoKrfhtTvug) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/meantan) 
